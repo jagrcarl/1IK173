@@ -1,69 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9de1fae6-ff7d-43f1-821a-7d32dc945fd2" name="Default Changelist" comment="Message">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4917e760-3639-40d1-9016-567d09517c05.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4917e760-3639-40d1-9016-567d09517c05/storage_v2/_src_/schema/library.uyToCQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb1/ArrayExeption.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb1/ClassIntArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb1/IIntArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb1/IIntArrayTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb2/Category.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb2/IPurchaseManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb2/IPurchaseStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb2/Purchase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb2/PurchaseManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb2/PurchaseManagerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb2/PurchaseStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb2/PurchaseStoreStub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/BannedMembers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/Bar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/ILibraryManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/ILibraryStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/LibraryManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/LibraryManagerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/LibraryStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/LoanedBooks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/Member.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/Menu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/MyApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/BannedMembers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/ILibraryManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/ILibraryStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/LibraryManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/LibraryManagerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/LibraryStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/LoanedBooks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/Member.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/Menu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/META-INF/1IK173.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Test/XMath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Test/XMathTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegApp/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegApp/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegApp/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegApp/libs/byte-buddy-1.9.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegApp/libs/byte-buddy-agent-1.9.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegApp/libs/mockito-core-2.25.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegApp/libs/objenesis-3.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegEngine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegEngineTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegStoreStub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegStoreStub_Bad.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/ZString/ZMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/ZString/ZString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/ZString/ZStringTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1IK173/log4j2.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LibraryLendingManagementFinal/LibraryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LibraryLendingManagementFinal/LibraryManager.java" afterDir="false" />
-    </list>
+    <list default="true" id="9de1fae6-ff7d-43f1-821a-7d32dc945fd2" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -288,7 +226,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -450,7 +388,7 @@
       <workItem from="1559035420081" duration="1769000" />
       <workItem from="1559118467652" duration="468000" />
       <workItem from="1559118968105" duration="34000" />
-      <workItem from="1559119591718" duration="2730000" />
+      <workItem from="1559119591718" duration="3064000" />
     </task>
     <task id="LOCAL-00001" summary="Message">
       <created>1559120948193</created>
@@ -459,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559120948193</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Message">
+      <created>1559122922908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559122922908</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -495,7 +440,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165207000" />
+    <option name="totallyTimeSpent" value="165541000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -508,7 +453,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.502" side_tool="true" weight="0.24161074" />
       <window_info id="Designer" order="1" />
@@ -526,9 +470,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.32960895" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4986577" weight="0.32960895" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49798658" visible="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="9" sideWeight="0.49932885" weight="0.32960895" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50201344" side_tool="true" visible="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.30167598" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49932885" weight="0.4455307" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32960895" />
