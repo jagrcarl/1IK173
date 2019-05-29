@@ -1,0 +1,13 @@
+[ERROR] 2019-05-24 09:56:34.546 [main] Bar - Did it again!
+[ERROR] 2019-05-24 09:56:34.546 [main] MyApp - Didn't do it.
+[INFO ] 2019-05-27 13:23:09.467 [main] LibraryManager - A new member of the library has been created. The ID is: 9233 and is a Teacher
+[INFO ] 2019-05-27 13:23:42.965 [main] LibraryManager - The book UML has been borrowed by a Teacher with the ID of: 9233
+[INFO ] 2019-05-27 13:23:49.975 [main] LibraryManager - The book UML has been borrowed by a Teacher with the ID of: 9233
+[INFO ] 2019-05-27 13:23:57.030 [main] LibraryManager - The book UML has been borrowed by a Teacher with the ID of: 9233
+[INFO ] 2019-05-27 13:25:34.412 [main] LibraryManager - The book UML with loanID: 5254 was returned later than expected, The member with id 9233 therefore got 1 strike
+[INFO ] 2019-05-27 13:26:12.817 [main] LibraryManager - The book UML with loanID: 6985 was returned later than expected, The member with id 9233 therefore got 1 strike
+[INFO ] 2019-05-27 13:26:28.554 [main] LibraryManager - The book UML with loanID: 7481 was returned later than expected, The member with id 9233 therefore got 1 strike
+[INFO ] 2019-05-27 13:26:28.599 [main] LibraryManager - The member with id 9233 was given a suspension from the library due to having two strikes
+[INFO ] 2019-05-27 13:28:07.710 [main] LibraryManager - The book UML has been borrowed by a Teacher with the ID of: 9233
+[INFO ] 2019-05-27 13:28:37.644 [main] LibraryManager - The book UML with loanID: 2048 was returned later than expected, The member with id 9233 therefore got 1 strike
+[INFO ] 2019-05-27 13:28:37.703 [main] LibraryManager - The member with id 9233 was given a suspension from the library due to having two strikes
