@@ -100,9 +100,9 @@ public class LibraryManager implements ILibraryManager {
                                 }
                             }
                         } else if (m.getRole().equalsIgnoreCase("Teacher")) {
-                            if (m.getBorrowedItems() >= 10) {
+                            if (m.getBorrowedItems() >= 11) {
                                 return false;
-                            } else if (m.getBorrowedItems() < 10) {
+                            } else if (m.getBorrowedItems() < 11) {
                                 if (b.getLibraryItem() > 0) {
                                     store.addLoan(title, id);
                                     logger.info("The book " + title + " has been borrowed by a " + m.getRole() + " with the ID of: " + m.getId());

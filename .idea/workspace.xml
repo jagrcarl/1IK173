@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9de1fae6-ff7d-43f1-821a-7d32dc945fd2" name="Default Changelist" comment="Message">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4917e760-3639-40d1-9016-567d09517c05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4917e760-3639-40d1-9016-567d09517c05/storage_v2/_src_/schema/library.uyToCQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb1/ArrayExeption.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb1/ClassIntArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb1/IIntArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb1/IIntArrayTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb2/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb2/IPurchaseManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb2/IPurchaseStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb2/Purchase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb2/PurchaseManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb2/PurchaseManagerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb2/PurchaseStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Labb2/PurchaseStoreStub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/BannedMembers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/Bar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/ILibraryManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/ILibraryStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/LibraryManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/LibraryManagerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/LibraryStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/LoanedBooks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagement/MyApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/BannedMembers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/ILibraryManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/ILibraryStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/LibraryManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/LibraryManagerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/LibraryStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/LoanedBooks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/LibraryLendingManagementFinal/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/META-INF/1IK173.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Test/XMath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/Test/XMathTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegApp/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegApp/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegApp/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegApp/libs/byte-buddy-1.9.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegApp/libs/byte-buddy-agent-1.9.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegApp/libs/mockito-core-2.25.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegApp/libs/objenesis-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegEngine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegEngineTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegStoreStub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/TimeRegStoreStub_Bad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/ZString/ZMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/ZString/ZString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/ZString/ZStringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1IK173/log4j2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LibraryLendingManagementFinal/LibraryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LibraryLendingManagementFinal/LibraryManager.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="librarydb: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="librarydb: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="bannedmembers: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="librarydb: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="book: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="librarydb: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="loanedbooks: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="librarydb: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="member: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagementFinal/LibraryManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="92" column="60" lean-forward="true" selection-start-line="92" selection-start-column="60" selection-end-line="92" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/*</find>
+      <find>loanedBooksList</find>
+      <find>date</find>
+      <find>Date</find>
+      <find>sus</find>
+      <find>suspensi</find>
+      <find>suspend</find>
+      <find>adds</find>
+      <find>bandy1995</find>
+      <find>lars</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+          <option name="moduleName" value="1IK173" />
+          <option name="title" value="1IK173 (Bundled Groovy 2.4.15)" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ZString/ZString.java" />
+        <option value="$PROJECT_DIR$/src/ZString/ZMain.java" />
+        <option value="$PROJECT_DIR$/src/ZString/ZStringTest.java" />
+        <option value="$PROJECT_DIR$/src/Test/XMath.java" />
+        <option value="$PROJECT_DIR$/src/Test/XMathTest.java" />
+        <option value="$PROJECT_DIR$/src/Labb1/Uppgift1MainTest.java" />
+        <option value="$PROJECT_DIR$/src/Labb1/Uppgift1.java" />
+        <option value="$PROJECT_DIR$/src/Labb1/Uppgift1Test.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagement/LoanedBook.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagement/ILibraryStore.java" />
+        <option value="$PROJECT_DIR$/src/Labb1/Uppgift1Main.java" />
+        <option value="$PROJECT_DIR$/src/Labb2/PurchaseEntity.java" />
+        <option value="$PROJECT_DIR$/src/Labb2/CategoryEntity.java" />
+        <option value="$PROJECT_DIR$/src/Labb2/IPurchaseManager.java" />
+        <option value="$PROJECT_DIR$/src/Labb2/IPurchaseStore.java" />
+        <option value="$PROJECT_DIR$/src/Labb2/PurchaseStore.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagement/Bar.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagement/MyApp.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagement/LoanedBooks.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagement/Member.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagement/LibraryManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagement/ILibraryManager.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagement/BannedMembers.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagement/Menu.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagement/LibraryStore.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagementFinal/BannedMembers.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagementFinal/Book.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagementFinal/ILibraryManager.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagementFinal/ILibraryStore.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagementFinal/LibraryManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagementFinal/LoanedBooks.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagementFinal/Member.java" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagementFinal/Menu.java" />
+        <option value="$PROJECT_DIR$/src/log4j2.properties" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagementFinal/LibraryStore.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagement/LibraryManager.java" />
+        <option value="$PROJECT_DIR$/src/Labb2/Purchase.java" />
+        <option value="$PROJECT_DIR$/src/Labb2/PurchaseManager.java" />
+        <option value="$PROJECT_DIR$/src/Labb2/PurchaseStoreStub.java" />
+        <option value="$PROJECT_DIR$/src/Labb2/PurchaseManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/Labb1/ClassIntArray.java" />
+        <option value="$PROJECT_DIR$/src/Labb1/ArrayExeption.java" />
+        <option value="$PROJECT_DIR$/src/Labb1/IIntArray.java" />
+        <option value="$PROJECT_DIR$/src/Labb1/IIntArrayTest.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/src/LibraryLendingManagementFinal/LibraryManager.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="180" />
+    <option name="y" value="-25" />
+    <option name="width" value="1750" />
+    <option name="height" value="985" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1IK173" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1IK173" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558531816376" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/Edit As Language" value="MySQL" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.23612513" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Labb1" />
+      <recent name="Test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.IIntArrayTest.findPositionsNegative">
+    <configuration name="IIntArrayTest.deleteAtNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1IK173" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Labb1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Labb1" />
+      <option name="MAIN_CLASS_NAME" value="Labb1.IIntArrayTest" />
+      <option name="METHOD_NAME" value="deleteAtNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IIntArrayTest.findPositions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1IK173" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Labb1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Labb1" />
+      <option name="MAIN_CLASS_NAME" value="Labb1.IIntArrayTest" />
+      <option name="METHOD_NAME" value="findPositions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IIntArrayTest.findPositionsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1IK173" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Labb1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Labb1" />
+      <option name="MAIN_CLASS_NAME" value="Labb1.IIntArrayTest" />
+      <option name="METHOD_NAME" value="findPositionsEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IIntArrayTest.findPositionsNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1IK173" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Labb1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Labb1" />
+      <option name="MAIN_CLASS_NAME" value="Labb1.IIntArrayTest" />
+      <option name="METHOD_NAME" value="findPositionsNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IIntArrayTest.getAtNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1IK173" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Labb1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Labb1" />
+      <option name="MAIN_CLASS_NAME" value="Labb1.IIntArrayTest" />
+      <option name="METHOD_NAME" value="getAtNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IIntArrayTest.findPositionsNegative" />
+        <item itemvalue="JUnit.IIntArrayTest.findPositionsEmpty" />
+        <item itemvalue="JUnit.IIntArrayTest.findPositions" />
+        <item itemvalue="JUnit.IIntArrayTest.deleteAtNegative" />
+        <item itemvalue="JUnit.IIntArrayTest.getAtNegative" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\jagrcarl\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9de1fae6-ff7d-43f1-821a-7d32dc945fd2" name="Default Changelist" comment="" />
+      <created>1555402963081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555402963081</updated>
+      <workItem from="1555402967002" duration="466000" />
+      <workItem from="1555403500663" duration="9000" />
+      <workItem from="1555404202936" duration="12487000" />
+      <workItem from="1555489492369" duration="3448000" />
+      <workItem from="1555493180784" duration="233000" />
+      <workItem from="1555493439721" duration="2413000" />
+      <workItem from="1555500034419" duration="5000" />
+      <workItem from="1555653970960" duration="3955000" />
+      <workItem from="1555938536196" duration="89000" />
+      <workItem from="1555939066333" duration="1289000" />
+      <workItem from="1555947892653" duration="1117000" />
+      <workItem from="1556017450505" duration="5632000" />
+      <workItem from="1556025845522" duration="1101000" />
+      <workItem from="1557303905975" duration="9338000" />
+      <workItem from="1558096483182" duration="41000" />
+      <workItem from="1558355418824" duration="834000" />
+      <workItem from="1558356300522" duration="9074000" />
+      <workItem from="1558437594343" duration="15602000" />
+      <workItem from="1558503139179" duration="17069000" />
+      <workItem from="1558596692716" duration="289000" />
+      <workItem from="1558597296311" duration="3481000" />
+      <workItem from="1558600829930" duration="4092000" />
+      <workItem from="1558608499415" duration="22034000" />
+      <workItem from="1558681929480" duration="2191000" />
+      <workItem from="1558684177529" duration="13020000" />
+      <workItem from="1558710529176" duration="3944000" />
+      <workItem from="1558774818492" duration="17453000" />
+      <workItem from="1558955530672" duration="2317000" />
+      <workItem from="1558967394707" duration="5521000" />
+      <workItem from="1559024089567" duration="1662000" />
+      <workItem from="1559035420081" duration="1769000" />
+      <workItem from="1559118467652" duration="468000" />
+      <workItem from="1559118968105" duration="34000" />
+      <workItem from="1559119591718" duration="2730000" />
+    </task>
+    <task id="LOCAL-00001" summary="Message">
+      <created>1559120948193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559120948193</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="IIntArrayTest_getAtNegative - 2019.05.28 at 08h 25m 58s.xml">
+      <configuration name="IIntArrayTest.getAtNegative" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IIntArrayTest_deleteAtNegative - 2019.05.28 at 08h 26m 46s.xml">
+      <configuration name="IIntArrayTest.deleteAtNegative" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IIntArrayTest_findPositions - 2019.05.28 at 08h 27m 15s.xml">
+      <configuration name="IIntArrayTest.findPositions" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IIntArrayTest_findPositions - 2019.05.28 at 08h 27m 32s.xml">
+      <configuration name="IIntArrayTest.findPositions" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IIntArrayTest_findPositions - 2019.05.28 at 08h 28m 00s.xml">
+      <configuration name="IIntArrayTest.findPositions" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IIntArrayTest_findPositions - 2019.05.28 at 08h 28m 19s.xml">
+      <configuration name="IIntArrayTest.findPositions" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IIntArrayTest_findPositions - 2019.05.28 at 08h 28m 33s.xml">
+      <configuration name="IIntArrayTest.findPositions" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IIntArrayTest_findPositions - 2019.05.28 at 08h 28m 46s.xml">
+      <configuration name="IIntArrayTest.findPositions" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IIntArrayTest_findPositionsEmpty - 2019.05.28 at 08h 29m 15s.xml">
+      <configuration name="IIntArrayTest.findPositionsEmpty" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IIntArrayTest_findPositionsNegative - 2019.05.28 at 08h 29m 32s.xml">
+      <configuration name="IIntArrayTest.findPositionsNegative" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="165207000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.502" side_tool="true" weight="0.24161074" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.498" visible="true" weight="0.28255033" />
+      <window_info id="Learn" order="6" weight="0.3295302" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.2932961" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.32960895" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4986577" weight="0.32960895" />
+      <window_info anchor="bottom" id="Database Changes" order="9" sideWeight="0.49932885" weight="0.32960895" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30167598" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49932885" weight="0.4455307" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32960895" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3295302" />
+      <window_info anchor="right" id="Database" order="7" weight="0.22147651" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24966443" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" sideWeight="0.502" side_tool="true" weight="0.24161074" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.498" visible="true" weight="0.28255033" />
+      <window_info id="Learn" order="6" weight="0.3295302" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.2932961" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32960895" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" weight="0.3282123" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30167598" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49932885" weight="0.4455307" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32960895" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3295302" />
+      <window_info anchor="right" id="Database" order="7" weight="0.22147651" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24966443" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Message" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LibraryLendingManagement/LibraryManager.java</url>
+          <line>48</line>
+          <properties class="LibraryLendingManagement.LibraryManager" method="suspend">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LibraryLendingManagement/LibraryManager.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagement/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagement/ILibraryManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagement/MyApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa4192.45597/BannedMembers.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa4192.14086/LibraryManager.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa4192.25857/LibraryStore.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa4192.9612/LibraryStore.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa4192.14608/LibraryManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagement/ILibraryStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.13.jar!/com/mysql/cj/jdbc/result/ResultSetImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28271">
+          <caret line="1760" selection-start-line="1760" selection-end-line="1760" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.13.jar!/com/mysql/cj/jdbc/exceptions/SQLError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4j2.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://4917e760-3639-40d1-9016-567d09517c05/schema/librarydb/table/book">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="04e2d193-27ce-4639-af13-a9ea457b8001">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://4917e760-3639-40d1-9016-567d09517c05/schema/librarydb/table/loanedbooks">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="04e2d193-27ce-4639-af13-a9ea457b8001">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://4917e760-3639-40d1-9016-567d09517c05/schema/librarydb/table/bannedmembers">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="04e2d193-27ce-4639-af13-a9ea457b8001">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://4917e760-3639-40d1-9016-567d09517c05/schema/librarydb/table/member">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="04e2d193-27ce-4639-af13-a9ea457b8001">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/Log.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagement/LibraryManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="57" column="83" selection-start-line="57" selection-start-column="83" selection-end-line="57" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagement/LoanedBooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagement/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="75" column="46" selection-start-line="75" selection-start-column="46" selection-end-line="75" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagement/BannedMembers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagement/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="21" column="169" lean-forward="true" selection-start-line="21" selection-start-column="154" selection-end-line="21" selection-end-column="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagement/LibraryStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4857">
+          <caret line="34" column="30" lean-forward="true" selection-start-line="33" selection-start-column="36" selection-end-line="34" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagement/LibraryManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagementFinal/ILibraryManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagementFinal/LoanedBooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labb2/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labb2/IPurchaseManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa16164.33268/PurchaseManager.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa16164.15432/PurchaseManagerTest.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa16164.26836/PurchaseManager.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa16164.14246/PurchaseManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/Labb2/Purchase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labb2/PurchaseStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labb2/IPurchaseStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labb2/PurchaseManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="52" column="14" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labb2/PurchaseManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labb2/PurchaseStoreStub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labb1/ArrayExeption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="108" selection-start-line="2" selection-start-column="108" selection-end-line="2" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labb1/ClassIntArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagementFinal/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labb1/IIntArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1221">
+          <caret line="39" column="64" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labb1/IIntArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagementFinal/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagementFinal/LibraryStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagementFinal/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagementFinal/LibraryManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="957">
+          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagementFinal/BannedMembers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagementFinal/ILibraryStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryLendingManagementFinal/LibraryManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="92" column="60" lean-forward="true" selection-start-line="92" selection-start-column="60" selection-end-line="92" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>1IK173</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-8.0.13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
